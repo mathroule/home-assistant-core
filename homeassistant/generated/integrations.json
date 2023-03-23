@@ -729,6 +729,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "cellartracker": {
+      "name": "CellarTracker",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "cert_expiry": {
       "integration_type": "hub",
       "config_flow": true,
